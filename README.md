@@ -1,6 +1,6 @@
 Hi there, I'm Lucas Lemos
 
-- 🌱 I'm a Back-end Developer Jr who loves to code using PHP/Laravel. Currently, I'm studying Analysis and Systems Development to improve my skills and knowledge.
+- 🌱 I'm a Back-end Developer Jr who loves to code using PHP/Laravel. Currently, I'm studying information systems to improve my skills and knowledge.
 
 
 🌐 Socials:
